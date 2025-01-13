@@ -1,1 +1,3 @@
 https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data
+
+AFTER DOWNLOADING , NAME THE FOLDER "DATA" AND SERIALIZE THE FOLDERS FROM 0-n (i.e. 0,1,2,3,4,...,N)
